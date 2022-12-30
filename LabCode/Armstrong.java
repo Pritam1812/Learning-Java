@@ -1,4 +1,4 @@
-package LabCode;
+package LabCode; //Lab Class Date: 22/11/2022
 
 import java.util.Scanner;
 

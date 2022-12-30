@@ -1,4 +1,5 @@
 package Code;
+
 import java.util.Scanner;
 
 public class ReverseOfNumber {
